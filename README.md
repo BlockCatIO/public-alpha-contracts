@@ -9,3 +9,5 @@ As with all early access alpha software, the risk of bugs, vulnerabilities, or e
 # Found a bug?
 
 If it's non-severe or minor, please open an issue in the issue tracker of this repository. For critical bugs, responsible disclosure can be sent directly to us at team@blockcat.io.
+
+Copyright 2017 BlockCAT Technologies Inc. All Rights Reserved.
